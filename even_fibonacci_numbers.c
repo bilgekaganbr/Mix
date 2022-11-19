@@ -2,6 +2,8 @@
 
 int main(void)
 {
+    //Calculate the sum of even fibonacci terms below 4000000
+    
     //Define a integer list with a proper size
     int fib[100];
 
