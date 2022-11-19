@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //Calculate the sum of even fibonacci terms below 4000000
 
             //Define an integer list named fib
             List<int>fib = new List<int>();
